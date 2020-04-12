@@ -1,0 +1,11 @@
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\bin\Debug\netcoreapp3.1\Hello_User.exe
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\bin\Debug\netcoreapp3.1\Hello_User.deps.json
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\bin\Debug\netcoreapp3.1\Hello_User.runtimeconfig.json
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\bin\Debug\netcoreapp3.1\Hello_User.runtimeconfig.dev.json
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\bin\Debug\netcoreapp3.1\Hello_User.dll
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\bin\Debug\netcoreapp3.1\Hello_User.pdb
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\obj\Debug\netcoreapp3.1\Hello_User.csprojAssemblyReference.cache
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\obj\Debug\netcoreapp3.1\Hello_User.AssemblyInfoInputs.cache
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\obj\Debug\netcoreapp3.1\Hello_User.AssemblyInfo.cs
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\obj\Debug\netcoreapp3.1\Hello_User.dll
+C:\Zee\Learnings\C#\Programs\Basic_Core_Programs\Hello_User\Hello_User\obj\Debug\netcoreapp3.1\Hello_User.pdb
