@@ -9,7 +9,7 @@ namespace Hello_User
             Menu menu = new Menu();
             bool exit = menu.MainMenu();
             if(!exit)
-                Console.WriteLine("Thank You");
+                Console.WriteLine("Thank u");
         }
     }
 }
